@@ -1,0 +1,15 @@
+{
+  "name": "sort-file-in-folder",
+  "version": "1.0.0",
+  "description": "A CLI tool to organize files in a folder based on file types",
+  "main": "index.js",
+  "type":"module",
+  "bin":{
+    "organize":"./index.js"
+  },
+  "keyword":["cli","orgainize-files","nodejs"],
+  
+  
+  "author": "Syed-Ibrahim",
+  "license": "MIT"
+}
